@@ -12,6 +12,12 @@ npm install
 
 # Usage
 
+To keep your information update, run
+
+```bash
+json-server --watch db.json --port 4000
+```
+
 You can simply type in the search bar below the weather card and hit enter to view the current weather of whatever location you would like!
 The Navigation bar in the top left will take you to either a current radar map or a page introducing myself a little bit!
 
