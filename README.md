@@ -12,7 +12,7 @@ npm install
 
 # Usage
 
-To keep your information update, run
+To keep your information updated, run
 
 ```bash
 json-server --watch db.json --port 4000
